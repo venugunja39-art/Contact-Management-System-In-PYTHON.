@@ -1,0 +1,1 @@
+Contact Management System is a Python desktop application built with Tkinter and SQLite that allows users to add, view, update, and delete contacts through a simple graphical interface. It provides an easy way to manage personal or business contact information including name, gender, age, address, and phone number.
